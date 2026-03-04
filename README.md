@@ -33,6 +33,11 @@ An interactive weather agent that uses **Claude (AWS Bedrock)** and **OpenWeathe
 - Enter a location or description when prompted (e.g. `London`, `Tokyo`, `capital of India`).
 - Type `quit`, `exit`, or `q` to exit.
 
+<img width="1381" height="560" alt="weather_agent_Screenshot_1" src="https://github.com/user-attachments/assets/83c403b0-8569-47b0-8144-66961a17108d" />
+
+<img width="1073" height="692" alt="weather_agent_Screenshot_2" src="https://github.com/user-attachments/assets/3889f77f-ad87-4093-a79f-137aacad12e1" />
+
+
 ## License
 
 Use and modify as you like.
