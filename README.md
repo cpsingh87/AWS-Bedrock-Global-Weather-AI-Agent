@@ -1,6 +1,6 @@
 # Global Weather AI Agent
 
-An interactive weather agent that uses **Claude (AWS Bedrock)** and **OpenWeatherMap** to get weather for any location in the world. You can enter city names, countries, or natural-language descriptions (e.g. "capital of France", "city near Eiffel Tower").
+An **agentic AI**–based weather agent that uses **Claude (AWS Bedrock)** and **OpenWeatherMap** to get weather for any location in the world. You can enter city names, countries, or natural-language descriptions (e.g. "capital of France", "city near Eiffel Tower"). The agent orchestrates multiple steps—location interpretation, geocoding, and weather summarization—using an LLM and external APIs.
 
 ## Prerequisites
 
